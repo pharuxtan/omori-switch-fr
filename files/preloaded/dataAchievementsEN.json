@@ -14,7 +14,7 @@
   {
     "id": 1,
     "code": "AINT_NOBODY_HERE_BUT_US_CHICKENS",
-    "name_en": "C’est quoi ce poulet ?",
+    "name_en": "C’est quoi ce poulet ??",
     "description_en": "Bats le POULET ? au sommet de la FOUILLE DINO.",
     "iconIndex": 4,
     "hidden": true,
@@ -50,7 +50,7 @@
   {
     "id": 4,
     "code": "AS_EXPECTED_FROM_PROFESSIONALS",
-    "name_en": "Comme attendu de la part de pros !",
+    "name_en": "Pas étonnant de la part de pros !",
     "description_en": "Entraîne parfaitement la chorale TAUPOUSSE.",
     "iconIndex": 7,
     "hidden": true,
@@ -495,7 +495,7 @@
     "id": 41,
     "code": "PATRON_OF_THE_ARTS",
     "name_en": "Mécène des arts",
-    "description_en": "Commissionne toutes les œuvres de ROCOCO.",
+    "description_en": "Commandite toutes les œuvres de ROCOCO.",
     "iconIndex": 52,
     "hidden": true,
     "name_jp": "アートパトロン",
@@ -578,7 +578,7 @@
   {
     "id": 48,
     "code": "SEE_YOU_SPACE_BOYFRIEND",
-    "name_en": "À plus, Petit ami Spatial...",
+    "name_en": "À plus, Petit Ami Spatial...",
     "description_en": "Bats EX-PETIT AMI SPATIAL.",
     "iconIndex": 60,
     "hidden": true,
